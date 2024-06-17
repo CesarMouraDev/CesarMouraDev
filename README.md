@@ -7,7 +7,7 @@ Em termos de autoanálise, sou uma pessoa que sempre esteve em busca de conhecim
 
 Mais tarde, trabalhei em um escritório de advocacia onde ajudava resolver problemas de computadores e impressoras.
 
-Atualmente, sou estudante de Engenharia de Software. Estou explorando essa área com entusiasmo porque vejo a possibilidade de criar algo útil e inovador ou melhorar algo que já existe.
+Atualmente, sou estudante de Engenharia de Software e Economia Ecologia. Estou explorando essa área com entusiasmo porque vejo a possibilidade de criar algo útil e inovador ou melhorar algo que já existe.
 
 Minha jornada profissional e acadêmica reflete minha determinação e capacidade de adaptação. Continuo buscando novas oportunidades de aprendizado e crescimento, sempre visando contribuir positivamente para os campos em que atuo. Estou animado para ver onde essa jornada na Engenharia de Software me levará e como poderei impactar o mundo através da tecnologia.
 
