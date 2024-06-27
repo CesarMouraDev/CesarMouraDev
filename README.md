@@ -1,4 +1,4 @@
-# Olá, eu sou o Cesar Moura! 👋
+ Cesar Moura! 
 
 ## 🚀 Sobre mim
 Sou de Fortaleza, capital do Ceará, Brasil.
@@ -69,26 +69,20 @@ Minha jornada profissional e acadêmica reflete minha determinação e capacidad
 
 
 **Engenharia de Software (em andamento)**  
-[Universidade Leonardo da Vinci]
+Universidade Leonardo da Vinci
 
 **Economia Ecologica**  
-[Universidade Federal do Ceará]
+Universidade Federal do Ceará
 
 **Negócios Imobiliários**  
-[Centro Universitario Estacio de Sa], [2021]
+Centro Universitario Estacio de Sa, 2021
 
 
 
 
-## 🌐 Redes Sociais
-- [LinkedIn](https://www.linkedin.com/in/cesarmouradev)
-- [GitHub](https://github.com/cesarmouradev)
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CesarMouraDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CesarMouraDev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
