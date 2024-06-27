@@ -13,7 +13,8 @@ Minha jornada profissional e acadêmica reflete minha determinação e capacidad
 
 ## 🛠 Habilidades Técnicas
 - **Linguagens de Programação:**
-- <div align="left">
+
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,9 +39,22 @@ Minha jornada profissional e acadêmica reflete minha determinação e capacidad
 ###
 
 ## 📫 Contato
-- **Email:** [cesarmouradeveloper@gmail.com]
-- **LinkedIn:** [CesarMouraDev](https://www.linkedin.com/in/cesarmouradev)
-- **GitHub:** [CesarMouraDev](https://github.com/cesarmouradev)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cesarmouradev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  
+  <a href="cesarmouradev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
+  </a>
+  
+  <a href="cesarmouradeveloper@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+</div>
+
+###
 
 ## 📂 Projetos
 ### Projeto 1: [Novo Projeto em Breve]
