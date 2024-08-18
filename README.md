@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Sou de Fortaleza, capital do Ceará, Brasil.
 
-Em termos de autoanálise, sou uma pessoa que sempre esteve em busca de conhecimento e desafios. Comecei a trabalhar cedo, em uma oficina mecânica, onde lidava com tarefas elétricas. Embora fosse um trabalho cansativo e não algo que eu pretendia continuar a longo prazo, sempre me esforcei para fazer o meu melhor e busquei aprimorar minhas habilidades.
+Em termos de autoanálise, sou uma pessoa que sempre esteve em busca de conhecimento e desafios. Comecei a trabalhar cedo, em uma oficina mecânica, onde lidava com tarefas operacionais, sempre me esforcei para fazer o meu melhor e busquei aprimorar minhas habilidades.
 
 Mais tarde, trabalhei em um escritório de advocacia onde ajudava resolver problemas de computadores e impressoras.
 
