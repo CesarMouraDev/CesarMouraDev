@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Sou de Fortaleza, capital do Ceará, Brasil.
 
-Em termos de autoanálise, sou uma pessoa que sempre esteve em busca de conhecimento e desafios. Comecei a trabalhar cedo, em uma oficina mecânica, onde lidava com tarefas operacionais como eletricista de autos. Desde jovem, sempre me esforcei para fazer o meu melhor e busquei aprimorar minhas habilidades.
+Em termos de autoanálise, sou uma pessoa que sempre esteve em busca de conhecimento e desafios. Comecei a trabalhar cedo, em uma oficina mecânica, onde lidava com tarefas operacionais como eletricista de autos. Desde jovem, me empenhei a fazer o meu melhor e busquei aprimorar minhas habilidades.
 
 Com o tempo, percebi que a tecnologia estava cada vez mais presente em todas as áreas, inclusive na mecânica. Isso despertou meu interesse em entender melhor como os sistemas eletrônicos funcionavam e como poderiam ser aplicados para melhorar processos e resolver problemas. Essa curiosidade me levou a buscar oportunidades próximas à área tecnológica, onde comecei a me envolver com manutenção de sistemas eletrônicos e automação.
 
