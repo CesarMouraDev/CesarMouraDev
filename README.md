@@ -11,6 +11,18 @@ Essa transição natural para a tecnologia me motivou a aprofundar meus conhecim
 
 Minha jornada profissional e acadêmica reflete minha determinação e capacidade de adaptação. Continuo buscando novas oportunidades de aprendizado e crescimento, sempre visando contribuir positivamente para os campos em que atuo. Estou animado para ver onde essa jornada na Engenharia de Software me levará e como poderei impactar o mundo através da tecnologia.
 
+
+
+I am from Fortaleza, the capital of Ceará, Brazil.
+
+In terms of self-analysis, I am a person who has always been in search of knowledge and challenges. I started working early in an auto mechanic shop, where I performed operational tasks as an auto electrician. Since a young age, I made sure to give my best and continually worked on improving my skills.
+
+Over time, I realized that technology was increasingly present in all areas, including mechanics. This sparked my interest in understanding how electronic systems worked and how they could be applied to improve processes and solve problems. This curiosity led me to explore opportunities in the tech field, where I began getting involved with electronics maintenance and automation.
+
+This natural transition into technology motivated me to deepen my knowledge and pursue a more solid education. Currently, I am studying Software Engineering and Ecological Economics. I am excited about these areas because I see the potential to create something useful and innovative or improve something that already exists, always with a focus on sustainability and a positive environmental impact.
+
+My professional and academic journey reflects my determination and adaptability. I continue to seek new learning and growth opportunities, always aiming to contribute positively to the fields I am involved in. I am excited to see where this journey in Software Engineering will take me and how I can make an impact on the world through technology.
+
 ## 🛠 Habilidades Técnicas
 - **Linguagens de Programação:**
 
